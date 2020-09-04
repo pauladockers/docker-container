@@ -33,7 +33,7 @@
     "css-star-rating": "^1.2.4",
     "ngx-spinner": "^7.0.0",
     "ngx-toastr": "^10.0.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "os": "^0.1.1",
     "rxjs": "6.5.2",
     "rxjs-compat": "^6.0.0-rc.0",
